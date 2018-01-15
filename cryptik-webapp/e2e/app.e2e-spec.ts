@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('cryptik.web App', () => {
+describe('cryptik-webapp App', () => {
   let page: AppPage;
 
   beforeEach(() => {
